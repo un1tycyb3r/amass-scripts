@@ -1,6 +1,6 @@
 #!/usr/bash
 
-echo "Use this program to pull ASN information from a afile and run them through amass!"
+echo "Use this program to pull ASN information from a a file and run them through amass!"
 
 echo "What is the input file?     :"
 
